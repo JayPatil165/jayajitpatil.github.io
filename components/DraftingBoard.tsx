@@ -163,7 +163,7 @@ const IdeaCard: React.FC<IdeaCardProps> = ({ idea, index, isMobile, isInView }) 
             </div>
           </div>
 
-          {/* Let's Collaborate Button - smaller with animation */}
+          {/* Let's Collaborate Button - smaller with animations */}
           <a
             href="/contact"
             whileHover={{ scale: 1.06 }}
