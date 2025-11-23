@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 import { ThemeProvider } from './context/ThemeContext';
 import Footer from './components/Footer';
 
+
 const AppContent = () => {
   const location = useLocation();
   const showFooter = location.pathname !== '/contact';
