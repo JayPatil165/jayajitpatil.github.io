@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my projects, experience, and s
 
 ## 🛠️ Tech Stack
 
-- **React** - UI library
+- **React** - UI library  
 - **TypeScript** - Type-safe development
 - **Tailwind CSS** - Utility-first styling
 - **Framer Motion** - Smooth animations and transitions
@@ -15,7 +15,7 @@ A modern, responsive portfolio website showcasing my projects, experience, and s
 
 ### Prerequisites
 - Node.js (v16 or higher)
-- npm or yarn
+- npm or yarn 
 
 ### Installation
 
